@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 } */
+
+div:nth-child(1) {
+  text-align: center;
+  margin-top: 15%;
+}
+input {
+  width: 30%;
+  height: 10vh;
+  font-size: 2rem;
+}
